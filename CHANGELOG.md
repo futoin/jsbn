@@ -1,3 +1,6 @@
+# @futoin/v1.1.1
+- FIXED: to work with frozen Object.prototype
+
 # v1.1.0
 
 - Allow for es6 "default import", e.g. `import BigInteger from 'jsbn'`.

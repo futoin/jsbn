@@ -1,5 +1,5 @@
 {
-  "name": "jsbn",
+  "name": "@futoin/jsbn",
   "version": "1.1.0",
   "description": "The jsbn library is a fast, portable implementation of large-number math in pure JavaScript, enabling public-key crypto and other applications on desktop and mobile browsers.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andyperlitch/jsbn.git"
+    "url": "https://github.com/futoin/jsbn.git"
   },
   "keywords": [
     "biginteger",

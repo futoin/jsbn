@@ -1,3 +1,5 @@
+# WARNING: It's a fork to fix frozen Object.prototype problem
+
 # jsbn: javascript big number
 
 [Tom Wu's Original Website](http://www-cs-students.stanford.edu/~tjw/jsbn/)
